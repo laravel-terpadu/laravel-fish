@@ -1,4 +1,4 @@
-# Fish Shop Country
+# International Fish
 
 * Melayani berbagai jenis penjualan ikan cupang hias ke kluar negri
 * pembayaran menggunakan paypal
