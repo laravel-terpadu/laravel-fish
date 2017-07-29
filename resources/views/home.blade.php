@@ -7,7 +7,7 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    You are logged in!
+                    Kamu Telah Login Sebagai  {{ Auth::user()->name }}
                 </div>
             </div>
         </div>
